@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: charts
+Version: 0.3
+Summary: Aggiunti a pacchetto data anche candlestick e table, contenenti le classi per i relativi plot
+Home-page: UNKNOWN
+Author: Valerio Bitetta
+Author-email: vabite@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
